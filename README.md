@@ -15,9 +15,7 @@ This project is a Java-based backend application developed as part of a recruitm
 - [Getting Started](#getting-started)  
   - [Prerequisites](#prerequisites)  
   - [Steps to Run](#steps-to-run)  
-- [Project Structure](#project-structure)  
-- [Contributing](#contributing)  
-- [License](#license)  
+- [Project Structure](#project-structure)   
 
 ---
 
